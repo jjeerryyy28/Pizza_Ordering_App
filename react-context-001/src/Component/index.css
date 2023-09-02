@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  margin-left: 10px;
+}
+
+.dark-bg {
+  background-color: black;
+}
+
+.light-bg {
+  background-color: white;
+}
+
+bg-color {
+  background-color: black;
+}
+
+.light-theme {
+  background-color: #fff;
+}
+
+.dark-theme {
+  background-color: #000;
+}
